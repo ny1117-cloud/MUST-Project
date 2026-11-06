@@ -1,7 +1,7 @@
-# 임지용 교수 연구실적 정리 (ORCID + PubMed + Crossref 병합, 2026.11.6 조회)
+# 임지용 교수 연구실적 전수 조사 (ORCID + PubMed + Crossref, 2026.11.6)
 
 - ORCID iD: [0000-0001-5395-3284](https://orcid.org/0000-0001-5395-3284) (ORCID 등록 업적 31편)
-- PubMed 추가 확인 3편 포함 **총 34편** (2015~2026). 국내 학술지·KCI·의료법 논문 등 비색인 실적은 여전히 누락 → KRI 입력 시 보완.
+- PubMed 추가 3편 + Crossref 추가 1편(국내 학술지) 포함 **총 35편 + 프리프린트 1건** (2013~2026). 국내 학술지·KCI·의료법 논문 등 비색인 실적은 여전히 누락 → KRI 입력 시 보완.
 - ORCID 경력: 서울성모병원 응급의학과 Professor(2014.03~), 국제진료센터 Professor(2025.05~). ORCID에 학력·연구비 항목은 비어 있음 → **박사 "2027.2 취득 예정"과 함께 KRI·IRIS에는 정확히 기재**.
 - cmcem.com: 본인 연구 포트폴리오 사이트. 자기소개는 "post-cardiac arrest care, neuroprognostication, emergency department decision systems, clinically interpretable AI". 언론 보도 5건(서울신문 2025·2026, 연합뉴스 2023·2024, SBS 2016) 링크 있음 → 계획서 "연구성과 확산" 근거로 활용 가능.
 - 저자 위치는 PubMed·Crossref 기준. 교신저자 여부는 두 DB 모두 제공하지 않으므로 last author 논문은 본인이 확인.
@@ -44,6 +44,28 @@
 | 2017 | 2/3 | Scandinavian journal of clinical and laboratory investigation | Mortality prediction using serum biomarkers and various clinical risk scales in community-acquired pneumonia. | [10.1080/00365513.2017.1344298](https://doi.org/10.1080/00365513.2017.1344298) | ORCID |
 | 2016 | 4/7 | International emergency nursing | Does rapid blood sampling affect the retention time of patients with low-acuity complaints in the emergency department? | [10.1016/j.ienj.2016.10.002](https://doi.org/10.1016/j.ienj.2016.10.002) | ORCID |
 | 2015 | last | The American journal of emergency medicine | Hypoxic hepatitis in survivors of out-of-hospital cardiac arrest. | [10.1016/j.ajem.2015.05.008](https://doi.org/10.1016/j.ajem.2015.05.008) | ORCID |
+
+## 전수 조사 방법과 한계 (2026.11.6)
+
+| 출처 | 방법 | 결과 |
+|---|---|---|
+| ORCID 0000-0001-5395-3284 | works 전체 조회 | 31편 |
+| PubMed | 전체이름 변형(Lim, Jee Yong / Jeeyong / Jee-Yong / Jee Young) + "Lim JY" × 가톨릭·서울성모·응급 소속 조합, 총 200여 건 메타데이터를 받아 이름·소속으로 동명이인 제거 | 32편 (ORCID 대비 +3: AJEM 2024 lactate, AJEM 2021 노인 요로감염, Abdom Radiol 2025) |
+| Crossref | ORCID 필터 + 저자명 변형 × 소속(가톨릭대·서울성모) × 연도별(2006~2026) 약 49,000건 스캔, 이름 정규화로 걸러냄 | +1편: **J Korean Geriatr Soc 2013** (Jee-Yong Lim, 2/5) [10.4235/jkgs.2013.17.3.118](https://doi.org/10.4235/jkgs.2013.17.3.118) ; +프리프린트 1건: Research Square 2022 "KORHN risk score for early neuroprognostication" (저자명이 "Jee Yong Im"으로 오기, 5/5) [10.21203/rs.3.rs-1485762/v1](https://doi.org/10.21203/rs.3.rs-1485762/v1) → AJEM 2023 중증도 점수 논문의 프리프린트로 추정, 본인 확인 필요 |
+| 동명이인(제외) | Ji-Young Lim(가톨릭대 혈액내과·면역), Jee Young Lim(생산기술연구원 섬유), Ji Young Lim(간호학), Ju Yong Lim(흉부외과), Jae-Young Lim(재활의학) 등 | 70여 건 제외 |
+| KoreaMed / KCI | KoreaMed는 자동 접속을 reCAPTCHA로 차단, KCI·DBpia는 이 세션 네트워크에서 미허용 | **국내 학술지(대한응급의학회지 등)·의료법 논문은 미수집** |
+| OpenAlex | 무료 일일 한도가 이 IP에서 소진. API 키는 이메일 등록이 필요해 교수님 허락 전에는 미사용 | 미사용 |
+
+→ 영문 색인 논문은 35편으로 사실상 전수에 가깝다. **국내 학술지 실적은 KRI(한국연구자정보)에서 본인이 직접 보완**해야 한다.
+
+### 추가 확인된 2편 (전체 목록에 추가)
+
+| 연도 | 저자 위치 | 저널 | 제목 | DOI |
+|---|---|---|---|---|
+| 2013 | 2/5 | J Korean Geriatr Soc | Chief Complaints and Related Features of Elderly Patients Presenting to One Region Wide Emergency Medical Center With Medical Problems | [10.4235/jkgs.2013.17.3.118](https://doi.org/10.4235/jkgs.2013.17.3.118) |
+| 2022 (프리프린트) | 5/5 | Research Square | KORHN risk score for early neuroprognostication in cardiac arrest (저자명 "Im" 오기) | [10.21203/rs.3.rs-1485762/v1](https://doi.org/10.21203/rs.3.rs-1485762/v1) |
+
+2013년 노인 응급환자 주소(chief complaint) 논문은 "응급실 이용 역학" 축의 출발점이 2013년까지 거슬러 올라간다는 근거가 되므로 역량 서술에 한 줄 넣을 가치가 있다.
 
 ## 연구 분야 요약 (논문 기반)
 
