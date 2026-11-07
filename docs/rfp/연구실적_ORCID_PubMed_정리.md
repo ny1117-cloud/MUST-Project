@@ -1,7 +1,7 @@
 # 임지용 교수 연구실적 전수 조사 (ORCID + PubMed + Crossref, 2026.11.6)
 
 - ORCID iD: [0000-0001-5395-3284](https://orcid.org/0000-0001-5395-3284) (ORCID 등록 업적 31편)
-- PubMed 추가 3편 + Crossref 추가 1편(국내 학술지) 포함 **총 35편 + 프리프린트 1건** (2013~2026). 국내 학술지·KCI·의료법 논문 등 비색인 실적은 여전히 누락 → KRI 입력 시 보완.
+- 영문 색인 36편(ORCID 31 + PubMed 3 + Crossref 1 + CEEM 2017 1) + 대한응급의학회지 6편 = **총 42편 + 프리프린트 1건** (2013~2026). 국내 학술지·KCI·의료법 논문 등 비색인 실적은 여전히 누락 → KRI 입력 시 보완.
 - ORCID 경력: 서울성모병원 응급의학과 Professor(2014.03~), 국제진료센터 Professor(2025.05~). ORCID에 학력·연구비 항목은 비어 있음 → **박사 "2027.2 취득 예정"과 함께 KRI·IRIS에는 정확히 기재**.
 - cmcem.com: 본인 연구 포트폴리오 사이트. 자기소개는 "post-cardiac arrest care, neuroprognostication, emergency department decision systems, clinically interpretable AI". 언론 보도 5건(서울신문 2025·2026, 연합뉴스 2023·2024, SBS 2016) 링크 있음 → 계획서 "연구성과 확산" 근거로 활용 가능.
 - 저자 위치는 PubMed·Crossref 기준. 교신저자 여부는 두 DB 모두 제공하지 않으므로 last author 논문은 본인이 확인.
@@ -53,10 +53,26 @@
 | PubMed | 전체이름 변형(Lim, Jee Yong / Jeeyong / Jee-Yong / Jee Young) + "Lim JY" × 가톨릭·서울성모·응급 소속 조합, 총 200여 건 메타데이터를 받아 이름·소속으로 동명이인 제거 | 32편 (ORCID 대비 +3: AJEM 2024 lactate, AJEM 2021 노인 요로감염, Abdom Radiol 2025) |
 | Crossref | ORCID 필터 + 저자명 변형 × 소속(가톨릭대·서울성모) × 연도별(2006~2026) 약 49,000건 스캔, 이름 정규화로 걸러냄 | +1편: **J Korean Geriatr Soc 2013** (Jee-Yong Lim, 2/5) [10.4235/jkgs.2013.17.3.118](https://doi.org/10.4235/jkgs.2013.17.3.118) ; +프리프린트 1건: Research Square 2022 "KORHN risk score for early neuroprognostication" (저자명이 "Jee Yong Im"으로 오기, 5/5) [10.21203/rs.3.rs-1485762/v1](https://doi.org/10.21203/rs.3.rs-1485762/v1) → AJEM 2023 중증도 점수 논문의 프리프린트로 추정, 본인 확인 필요 |
 | 동명이인(제외) | Ji-Young Lim(가톨릭대 혈액내과·면역), Jee Young Lim(생산기술연구원 섬유), Ji Young Lim(간호학), Ju Yong Lim(흉부외과), Jae-Young Lim(재활의학) 등 | 70여 건 제외 |
-| KoreaMed / KCI | KoreaMed는 자동 접속을 reCAPTCHA로 차단, KCI·DBpia는 이 세션 네트워크에서 미허용 | **국내 학술지(대한응급의학회지 등)·의료법 논문은 미수집** |
+| jksem.org (대한응급의학회지) | 사이트 검색을 이름 표기 12종으로 실행. "Jeeyong Lim"과 "Jee Yong Im" 두 표기에서만 검색됨 | **6편** (아래 표). 의료법 논문 포함 |
+| Crossref 응급의학 저널 전수(CEEM 791건·대한법의학회지 396건) | 저널 ISSN 단위로 전 DOI 스캔 | +1편: CEEM 2017 MERS 논문(저자명 "Ji Yong Im", 서울성모 응급의학과 소속, 8/12) [10.15441/ceem.16.166](https://doi.org/10.15441/ceem.16.166) |
+| KoreaMed / KCI | KoreaMed는 자동 접속을 reCAPTCHA로 차단, KCI·DBpia는 이 세션 네트워크에서 미허용 | 대한응급의학회지 외 국내 학술지는 미수집 |
 | OpenAlex | 무료 일일 한도가 이 IP에서 소진. API 키는 이메일 등록이 필요해 교수님 허락 전에는 미사용 | 미사용 |
 
-→ 영문 색인 논문은 35편으로 사실상 전수에 가깝다. **국내 학술지 실적은 KRI(한국연구자정보)에서 본인이 직접 보완**해야 한다.
+→ 영문 색인 36편 + 대한응급의학회지 6편. 대한응급의학회지 외 국내 학술지(대한노인병학회지 2013은 Crossref로 확보)와 학술대회 초록은 KRI에서 보완.
+
+### 대한응급의학회지(JKSEM) 6편 (jksem.org 검색, DOI 미부여)
+
+| 연도 | 저자 위치 | 권(호):쪽 | 제목 | 비고 |
+|---|---|---|---|---|
+| 2026 | 2/3 | 37(5):287-294 | Association between the systemic inflammatory response index and neurologic outcomes treated with TTM after OHCA | 2026.10.30 게재, 최신 |
+| 2024 | 2/3 | 35(4):267-274 | Association between the D-dimer to fibrinogen ratio and neurological outcomes in witnessed OHCA treated with TTM | |
+| **2023** | **2/4** | **34(6):558-567** | **Trends of criminal responsibility in emergency care** (우해림·임지용·김효준·정재훈) | **의료법 논문.** 키워드: Legal case, Accident prevention. 계획서 "ELSI·법제도" 서술과 특허·법률 역량의 근거 |
+| 2022 | 2/4 | 33(6):573-580 | External validation of the STONE score and the modified STONE score for suspicious urinary stone in the ED | Diagnostics 2026 요로결석 ML 논문의 선행 |
+| 2022 | 5/8 | 33(6):565-572 | The association between the neutrophil-to-lymphocyte ratio and bacteremia in elderly patients admitted to the ED | |
+| 2014 | 8/8 (last) | 25(6):722-729 | Mid-Term Effects of Tertiary Hospital Beds Expansion on Emergency Department Overcrowding | 저자명 "Im, Jee Yong". **응급실 과밀 연구의 출발점(2014)** → CEU 과제 필요성과 직결 |
+
+※ 2014·2017 논문은 성이 "Im"으로 로마자 표기돼 있어 KRI·ORCID 자동 매칭에서 빠진다. KRI에 수동 추가하고 ORCID에도 등록할 것.
+※ jksem.org 검색은 온라인 아카이브 범위 내에서만 동작한다. 2011년 이전 대한응급의학회지 논문이 있다면 KoreaMed에서 별도 확인 필요.
 
 ### 추가 확인된 2편 (전체 목록에 추가)
 
@@ -77,6 +93,8 @@
 | 중증도 분류(KTAS)·조기경고·과소분류 | 3 | Diagnostics 2026 (KTAS+NEWS), AI 2026 (undertriage), Healthcare 2026 (CEU) |
 | 코로나19와 응급실 이용 | 3 | AJEM 2022, Children 2022, Australas Emerg Care 2023 |
 | 중독·기타 임상 | 4 | BMC Pharmacol Toxicol 2025 (1저자), Scand J Clin Lab Invest 2017 등 |
+| 의료법·응급의료 법적 책임 | 1 | 대한응급의학회지 2023 (2저자) |
+| 응급실 과밀·병상 정책 (국내) | 1 | 대한응급의학회지 2014 (last, "Im" 표기) |
 
 2026년 한 해에 11편(ORCID 기준)이 집중되고 그중 7편이 last author다. 심사위원에게 "독립 연구 책임자로 전환된 시점"으로 읽히게 할 수 있다.
 
